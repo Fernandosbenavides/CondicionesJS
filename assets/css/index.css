@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: gray;
+    background-size: auto;
+    background-repeat: repeat-x;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 10%;
+}
+
+img {
+    width: 350px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    font-size: 30px;
+}
+
+li {
+    margin-bottom: 15px;
+}
